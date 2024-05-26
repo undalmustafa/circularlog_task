@@ -2,7 +2,7 @@
 
 int main() {
     try {
-        json config = json::parse(std::ifstream("C:\\Users\\undal\\CLionProjects\\CircularLogTask\\src\\config.json"));
+        json config = json::parse(std::ifstream("config.json"));
 
         Logger::LoggingType loggingType;
         if (config["logging_type"] == "DAILY") loggingType = Logger::DAILY;
