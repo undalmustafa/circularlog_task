@@ -1,0 +1,3 @@
+C:/Users/undal/Desktop/CircularLogTask/cmake-build-debug/CMakeFiles/CircularLogTask.dir
+C:/Users/undal/Desktop/CircularLogTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/undal/Desktop/CircularLogTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
