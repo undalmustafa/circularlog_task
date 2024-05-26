@@ -6,7 +6,9 @@
 #include <ctime>
 #include <string>
 #include <filesystem>
-#include "json.hpp"
+#include "json.hpp" // Assuming nlohmann/json
+
+using json = nlohmann::json;
 
 class Logger {
 public:
