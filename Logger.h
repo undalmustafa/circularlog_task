@@ -6,6 +6,7 @@
 #include <ctime>
 #include <string>
 #include <filesystem>
+#include "json.hpp"
 
 class Logger {
 public:
