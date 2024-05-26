@@ -1,0 +1,5 @@
+{
+  "logging_type": "SECONDLY",
+  "frequency": 1,
+  "max_files": 7
+}
